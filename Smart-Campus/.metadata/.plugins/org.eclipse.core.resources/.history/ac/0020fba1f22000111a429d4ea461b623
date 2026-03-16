@@ -1,6 +1,0 @@
-spring.application.name=UserService
-
-
-server.port=7171
-
-eureka.client.service-url.default-zone=http://localhost:8761/eureka
